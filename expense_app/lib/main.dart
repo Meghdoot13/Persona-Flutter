@@ -24,6 +24,8 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
+
+  //Transaction is a user-defined class see "Transaction.dart"
   final List<Transaction> _userTransaction = [
     // Transaction(
     //   id: 't1',
